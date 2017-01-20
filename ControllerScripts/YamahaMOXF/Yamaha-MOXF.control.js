@@ -9,13 +9,14 @@ host.addDeviceNameBasedDiscoveryPair(
     "Yamaha MOXF6/MOXF8 MIDI 2",
     "Yamaha MOXF6/MOXF8 MIDI 3",
     "Yamaha MOXF6/MOXF8 MIDI 4",
-    "Yamaha MOXF6/MOXF8 MIDI 5"],
-
+    "Yamaha MOXF6/MOXF8 MIDI 5"
+   ],
    ["Yamaha MOXF6/MOXF8 MIDI 1",
     "Yamaha MOXF6/MOXF8 MIDI 2",
     "Yamaha MOXF6/MOXF8 MIDI 3",
     "Yamaha MOXF6/MOXF8 MIDI 4",
     "Yamaha MOXF6/MOXF8 MIDI 5"
+   ]
 );
     
 
